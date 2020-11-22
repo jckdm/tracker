@@ -10,9 +10,9 @@ git clone https://github.com/jckdm/tracker
 ```
 3. Install requirements
 ```bash
-pip install --user -r requirements.txt
+pip3 install --user -r requirements.txt
 ```
 4. Run Tracker
 ```bash
-python main.py
+python3 main.py
 ```
